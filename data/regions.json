@@ -1,0 +1,304 @@
+{
+  "regions": {
+    "Rajasthan": {
+      "country": "India",
+      "cities": {
+        "Jaipur": {
+          "typical_days": 3,
+          "activities": {
+            "adventure": 2,
+            "culture": 5,
+            "food": 4,
+            "nightlife": 3,
+            "beach": 0,
+            "nature": 2,
+            "shopping": 5
+          },
+          "avg_daily_cost": {
+            "budget": 1500,
+            "mid-range": 3000,
+            "luxury": 6000
+          },
+          "location": {"lat": 26.9124, "lon": 75.7873},
+          "description": "Pink City with forts, palaces, and vibrant markets"
+        },
+        "Udaipur": {
+          "typical_days": 2,
+          "activities": {
+            "adventure": 2,
+            "culture": 5,
+            "food": 4,
+            "nightlife": 2,
+            "beach": 0,
+            "nature": 4,
+            "shopping": 3
+          },
+          "avg_daily_cost": {
+            "budget": 1800,
+            "mid-range": 3500,
+            "luxury": 7000
+          },
+          "location": {"lat": 24.5854, "lon": 73.7125},
+          "description": "City of Lakes with romantic palaces"
+        },
+        "Jodhpur": {
+          "typical_days": 2,
+          "activities": {
+            "adventure": 3,
+            "culture": 5,
+            "food": 4,
+            "nightlife": 2,
+            "beach": 0,
+            "nature": 2,
+            "shopping": 4
+          },
+          "avg_daily_cost": {
+            "budget": 1400,
+            "mid-range": 2800,
+            "luxury": 5500
+          },
+          "location": {"lat": 26.2389, "lon": 73.0243},
+          "description": "Blue City with massive Mehrangarh Fort"
+        },
+        "Jaisalmer": {
+          "typical_days": 2,
+          "activities": {
+            "adventure": 5,
+            "culture": 4,
+            "food": 3,
+            "nightlife": 1,
+            "beach": 0,
+            "nature": 5,
+            "shopping": 3
+          },
+          "avg_daily_cost": {
+            "budget": 1200,
+            "mid-range": 2500,
+            "luxury": 5000
+          },
+          "location": {"lat": 26.9157, "lon": 70.9083},
+          "description": "Golden City with desert safaris and sand dunes"
+        },
+        "Pushkar": {
+          "typical_days": 1,
+          "activities": {
+            "adventure": 2,
+            "culture": 5,
+            "food": 3,
+            "nightlife": 1,
+            "beach": 0,
+            "nature": 3,
+            "shopping": 4
+          },
+          "avg_daily_cost": {
+            "budget": 1000,
+            "mid-range": 2000,
+            "luxury": 4000
+          },
+          "location": {"lat": 26.4899, "lon": 74.5511},
+          "description": "Holy city with sacred lake and camel fair"
+        }
+      }
+    },
+    "Italy": {
+      "country": "Italy",
+      "cities": {
+        "Rome": {
+          "typical_days": 3,
+          "activities": {
+            "adventure": 2,
+            "culture": 5,
+            "food": 5,
+            "nightlife": 4,
+            "beach": 0,
+            "nature": 2,
+            "shopping": 4
+          },
+          "avg_daily_cost": {
+            "budget": 4000,
+            "mid-range": 8000,
+            "luxury": 15000
+          },
+          "location": {"lat": 41.9028, "lon": 12.4964},
+          "description": "Eternal City with ancient ruins and Vatican"
+        },
+        "Florence": {
+          "typical_days": 2,
+          "activities": {
+            "adventure": 1,
+            "culture": 5,
+            "food": 5,
+            "nightlife": 3,
+            "beach": 0,
+            "nature": 3,
+            "shopping": 4
+          },
+          "avg_daily_cost": {
+            "budget": 3500,
+            "mid-range": 7000,
+            "luxury": 13000
+          },
+          "location": {"lat": 43.7696, "lon": 11.2558},
+          "description": "Renaissance capital with art and architecture"
+        },
+        "Venice": {
+          "typical_days": 2,
+          "activities": {
+            "adventure": 1,
+            "culture": 5,
+            "food": 4,
+            "nightlife": 2,
+            "beach": 0,
+            "nature": 2,
+            "shopping": 3
+          },
+          "avg_daily_cost": {
+            "budget": 4500,
+            "mid-range": 9000,
+            "luxury": 16000
+          },
+          "location": {"lat": 45.4408, "lon": 12.3155},
+          "description": "Floating city with canals and gondolas"
+        },
+        "Milan": {
+          "typical_days": 2,
+          "activities": {
+            "adventure": 1,
+            "culture": 4,
+            "food": 4,
+            "nightlife": 5,
+            "beach": 0,
+            "nature": 1,
+            "shopping": 5
+          },
+          "avg_daily_cost": {
+            "budget": 4000,
+            "mid-range": 8500,
+            "luxury": 17000
+          },
+          "location": {"lat": 45.4642, "lon": 9.1900},
+          "description": "Fashion capital with modern vibes"
+        },
+        "Amalfi Coast": {
+          "typical_days": 2,
+          "activities": {
+            "adventure": 3,
+            "culture": 3,
+            "food": 5,
+            "nightlife": 3,
+            "beach": 5,
+            "nature": 5,
+            "shopping": 2
+          },
+          "avg_daily_cost": {
+            "budget": 5000,
+            "mid-range": 10000,
+            "luxury": 20000
+          },
+          "location": {"lat": 40.6333, "lon": 14.6029},
+          "description": "Stunning coastal towns with beaches and cliffs"
+        }
+      }
+    },
+    "Thailand": {
+      "country": "Thailand",
+      "cities": {
+        "Bangkok": {
+          "typical_days": 3,
+          "activities": {
+            "adventure": 2,
+            "culture": 5,
+            "food": 5,
+            "nightlife": 5,
+            "beach": 0,
+            "nature": 2,
+            "shopping": 5
+          },
+          "avg_daily_cost": {
+            "budget": 2000,
+            "mid-range": 4000,
+            "luxury": 8000
+          },
+          "location": {"lat": 13.7563, "lon": 100.5018},
+          "description": "Vibrant capital with temples and street food"
+        },
+        "Chiang Mai": {
+          "typical_days": 2,
+          "activities": {
+            "adventure": 4,
+            "culture": 5,
+            "food": 4,
+            "nightlife": 3,
+            "beach": 0,
+            "nature": 5,
+            "shopping": 4
+          },
+          "avg_daily_cost": {
+            "budget": 1500,
+            "mid-range": 3000,
+            "luxury": 6000
+          },
+          "location": {"lat": 18.7883, "lon": 98.9853},
+          "description": "Mountain city with temples and nature"
+        },
+        "Phuket": {
+          "typical_days": 3,
+          "activities": {
+            "adventure": 4,
+            "culture": 2,
+            "food": 4,
+            "nightlife": 5,
+            "beach": 5,
+            "nature": 4,
+            "shopping": 3
+          },
+          "avg_daily_cost": {
+            "budget": 2500,
+            "mid-range": 5000,
+            "luxury": 10000
+          },
+          "location": {"lat": 7.8804, "lon": 98.3923},
+          "description": "Beach paradise with water sports"
+        },
+        "Krabi": {
+          "typical_days": 2,
+          "activities": {
+            "adventure": 5,
+            "culture": 2,
+            "food": 3,
+            "nightlife": 2,
+            "beach": 5,
+            "nature": 5,
+            "shopping": 2
+          },
+          "avg_daily_cost": {
+            "budget": 2000,
+            "mid-range": 4000,
+            "luxury": 8000
+          },
+          "location": {"lat": 8.0863, "lon": 98.9063},
+          "description": "Limestone cliffs and pristine beaches"
+        },
+        "Pattaya": {
+          "typical_days": 2,
+          "activities": {
+            "adventure": 3,
+            "culture": 2,
+            "food": 4,
+            "nightlife": 5,
+            "beach": 4,
+            "nature": 2,
+            "shopping": 4
+          },
+          "avg_daily_cost": {
+            "budget": 1800,
+            "mid-range": 3500,
+            "luxury": 7000
+          },
+          "location": {"lat": 12.9236, "lon": 100.8825},
+          "description": "Beach city close to Bangkok with entertainment"
+        }
+      }
+    }
+  }
+}
