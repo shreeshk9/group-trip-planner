@@ -248,7 +248,6 @@ This project is open source and available under the MIT License.
 
 ## 👨‍💻 Author
 
-**Your Name**
 - GitHub: shreeshk9
 - LinkedIn: Shreesh Kulkarni
 - Email: kulkarnishreesh9@gmail.com
